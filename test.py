@@ -1,3 +1,2 @@
-print('coffee')
-print('test')
-print('testssss')
+import cv2
+
